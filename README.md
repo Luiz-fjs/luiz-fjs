@@ -1,7 +1,7 @@
 ### Olá! Sou o Luiz Felipe 👋
 
 - 📝 Estou no terceiro ano do Ensino Médio Técnico em Automação Industrial
-- 💼 Estou a procura do meu primeiro estágio ou jovem aprendiz na área da programação
+- 💼 Estou a procura do meu primeiro estágio na área da programação
  
  ##
 <br/>
