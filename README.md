@@ -1,6 +1,6 @@
 ### Olá! Sou o Luiz Felipe 👋
 
-- 📝 Estou no terceiro ano do Ensino Médio Técnico em Automação Industrial
+- 📝 Tenho formação Técnica em Automação Industrial pelo Instituto Federal de São Paulo
 - 💼 Estou a procura do meu primeiro estágio na área da programação
  
  ##
