@@ -1,7 +1,7 @@
 ### Olá! Sou o Luiz Felipe 👋
 
 - 📝 Tenho formação Técnica em Automação Industrial pelo Instituto Federal de São Paulo
-- 💼 Estou a procura do meu primeiro estágio na área da programação
+- 💼 Estou a procura de primeira vaga na área da programação
  
  ##
 <br/>
